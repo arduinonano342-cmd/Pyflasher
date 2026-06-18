@@ -10,11 +10,11 @@
 
 ## 🛠 Встановлення залежностей для роботи інструменту
 1. Встановіть графічну бібліотеку
-pip3 install PySimpleGUI
+"pip3 install PySimpleGUI"
 2. Встановіть утиліту для прошивки
-pip3 install esptool
+"pip3 install esptool"
 3. Налаштуйте права доступу до USB (це важливо для Linux):
-sudo usermod -a -G dialout $USER
+"sudo usermod -a -G dialout $USER"
 
 ## 📋 Як використовувати
 1. Запустіть програму.
