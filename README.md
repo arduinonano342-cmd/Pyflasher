@@ -1,2 +1,2 @@
-# Pyflasher
-Утиліта під Linux для прошивки мікроконтролерів Esp8266
+## Скріншот роботи
+![Pyflasher в роботі](pyflasher.jpg)
